@@ -3,7 +3,7 @@
 When we started in 2016 with 3, when a new person joined the company, they were expected to figure things out for themselves. 
 But when we grew from in one year to more than 14, our “introduction by immersion” style was harder. 
 We wanted to avoid that new hires felt lost and isolated, and looked around us to see how other companies did it. 
-Inspired by Basecamp Employee Handbook, we decided to do something simular. Future will tell if it works out :)
+Inspired by [Basecamp Employee Handbook](https://github.com/basecamp/handbook) and [Valve Handbook For New Employees](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf), we decided to do something simular. Future will tell if it works out :)
 
 It can be unnerving to join any company, but perhaps Teal partners in particular, given how different some of our practices are. 
 If you come from a typical enterprise, there’s as much to unlearn as there is to learn. 
@@ -28,5 +28,14 @@ Please take advantage of that glorious, shiny ignorance of being new, and questi
 
 
 ## Sections
-* Todo
+1. [Intro](https://github.com/tealpartners/handbook/blob/master/Intro.md)
+2. [Coming On Board](https://github.com/tealpartners/handbook/blob/master/ComingOnBoard.md)
+3. [Getting Started](https://github.com/tealpartners/handbook/blob/master/GettingStarted.md)
+4. [Settling In](https://github.com/tealpartners/handbook/blob/master/SettlingIn.md)
+5. [How Am I Doing?](https://github.com/tealpartners/handbook/blob/master/HowAmIDoing.md)
+6. [FAQ](https://github.com/tealpartners/handbook/blob/master/FAQ.md)
+
+Next chapter: [Intro](https://github.com/tealpartners/handbook/blob/master/Intro.md)
+
+
 
