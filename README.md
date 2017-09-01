@@ -28,14 +28,15 @@ Please take advantage of that glorious, shiny ignorance of being new, and questi
 
 
 ## Sections
-1. [Intro](https://github.com/tealpartners/handbook/blob/master/Intro.md)
-2. [Coming On Board](https://github.com/tealpartners/handbook/blob/master/ComingOnBoard.md)
-3. [Getting Started](https://github.com/tealpartners/handbook/blob/master/GettingStarted.md)
-4. [Settling In](https://github.com/tealpartners/handbook/blob/master/SettlingIn.md)
-5. [How Am I Doing?](https://github.com/tealpartners/handbook/blob/master/HowAmIDoing.md)
-6. [FAQ](https://github.com/tealpartners/handbook/blob/master/FAQ.md)
+2. [Values](https://github.com/tealpartners/handbook/blob/master/Values.md)
+3. [Getting Started/Onboarding](https://github.com/tealpartners/handbook/blob/master/GettingStarted.md)
+4. [How we work](https://github.com/tealpartners/handbook/blob/master/HowWeWork.md)
+4. [What we work on](https://github.com/tealpartners/handbook/blob/master/WhatWeWorkOn.md)
+5. [What we expect from a partner](https://github.com/tealpartners/handbook/blob/master/Expectations.md)
+6. [Culture](https://github.com/tealpartners/handbook/blob/master/culture.md)
+7. [FAQ](https://github.com/tealpartners/handbook/blob/master/FAQ.md)
 
-Next chapter: [Intro](https://github.com/tealpartners/handbook/blob/master/Intro.md)
+
 
 
 
