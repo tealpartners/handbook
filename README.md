@@ -33,7 +33,7 @@ Please take advantage of that glorious, shiny ignorance of being new, and questi
 4. [How we work](https://github.com/tealpartners/handbook/blob/master/HowWeWork.md)
 4. [What we work on](https://github.com/tealpartners/handbook/blob/master/WhatWeWorkOn.md)
 5. [What we expect from a partner](https://github.com/tealpartners/handbook/blob/master/Expectations.md)
-6. [Culture](https://github.com/tealpartners/handbook/blob/master/culture.md)
+6. [Culture](https://github.com/tealpartners/handbook/blob/master/Culture.md)
 7. [FAQ](https://github.com/tealpartners/handbook/blob/master/FAQ.md)
 
 

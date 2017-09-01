@@ -1,9 +1,9 @@
 # Values 
 
-##advice principle
+## Advice principle
 We introduced an "advice principle". With the advice principle, the right people make decisions at the right level with the input from relevant and knowledgeable colleagues.
 
-##Wholeness
+## Wholeness
 
 
 ## Flatland
