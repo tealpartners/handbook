@@ -22,6 +22,7 @@ In advance (or on the first day) we also give you access to all necessary accoun
 * Slack
 * Dropbox
 * Toggl
+* LastPass
 
 ## The First Day!
 
