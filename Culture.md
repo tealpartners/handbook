@@ -3,10 +3,10 @@
 
 
 ## Friday drinks
-civilized ;)
+Civilized...
 
 ## Tealbuilding
-Not alsways so civilized ;)
+Not always so civilized ;)
 
 ## Lunchbreaks
 Most of us take, coming from an enterprise environment, pretty long lunchbreaks.
@@ -15,14 +15,14 @@ Most of us take, coming from an enterprise environment, pretty long lunchbreaks.
 Doesn't matter, we are happy to have you on board!
 
 ## 100% transparancy
-Salary
+Salary  
 The best example of this principle is our open salary policy. The salary package of every Teal Partner is shared and discussed with all the colleagues.
-compensation gets adjusted to fit an employee’s internal peer-driven valuation
+Compensation gets adjusted to fit an employee’s internal peer-driven valuation.
 
 
-dropbox:
+Dropbox  
 We use the same level of transparancy and open communication with our clients. All project information, budgets, scope lists, assumptions and ideas are available at any time.
 
-## Get Fresh and stay clean
-We provide showers 
-If it's hot =>  short throusers
+## Get fresh and stay clean
+If you come by bike, you can take a shower at the office.
+If it's hot outside, you're free to come in short throusers and flip-flops.
