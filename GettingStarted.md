@@ -8,10 +8,9 @@ To make life easier, we have made an overview of what we expect from you and wha
 In order for getting fast at speed, it is essential that all the materials are ready on the first day.
 We all provide this for you but we need to know what we need to buy.
 For the PC, you have a choice between a laptop or desktop.
-Usually, as a laptop, something like an Dell XPS 15 is chosen. 
 We also provide all peripherals such as mouse, keyboard and monitor.
 If you need anything else for your PC, let us know!
-If something is agreed on GSM, subscription or company car, we like to arrange this in advance. 
+If something is agreed on mobile phone, subscription or company car, we like to arrange this in advance. 
 For the company car it is necessary to go to different garages and forward the offers to us.
 The leasing company will then prepare a proposal for each quote.
 
@@ -23,6 +22,24 @@ In advance (or on the first day) we also give you access to all necessary accoun
 * Dropbox
 * Toggl
 * LastPass
+
+## Flexible reward 
+
+The compensation and benefit package for internal employees exists of a fixed part consisting of:
+* Gross salary
+* Holiday pay
+* Year end premium
+* Net allowances
+* Group insurance
+* Health insurance
+
+and a flexible budget that allows our employees to match their salary package with their individual needs. Most popular benefits are:
+* Mobile phone
+* Mobile phone subscription
+* Company car
+* Public transport subscription
+* Bike lease
+
 
 ## The First Day!
 
