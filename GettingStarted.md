@@ -1,6 +1,6 @@
 # Getting Started
 
-Congratulations! If you are reading this you probably are our latest latest addition!  
+Congratulations! If you're reading this you probably are our latest addition!  
 To make life easier, we have made an overview of what we expect from you and what you can expect from us.
 
 ## Before The First Day
@@ -55,6 +55,13 @@ Because there is no boss, your colleagues will be happy to guide you.
 The next days and weeks you will be better acquainted with your new colleagues and be fully involved with your first project.
 
 
-Previous chapter: [Coming On Board](https://github.com/tealpartners/handbook/blob/master/ComingOnBoard.md)
-[Index](https://github.com/tealpartners/handbook/blob/master/README.md)
-Next chapter: [Settling In](https://github.com/tealpartners/handbook/blob/master/SettlingIn.md)
+<img align="right" src="media/Tealpartners_teal-02.png" width="150">
+
+## Sections
+1. [Intro](https://github.com/tealpartners/handbook/blob/master/README.md)
+3. [Getting Started/Onboarding](https://github.com/tealpartners/handbook/blob/master/GettingStarted.md)
+4. [How we work](https://github.com/tealpartners/handbook/blob/master/HowWeWork.md)
+4. [What we work on](https://github.com/tealpartners/handbook/blob/master/WhatWeWorkOn.md)
+5. [What we expect from a partner](https://github.com/tealpartners/handbook/blob/master/Expectations.md)
+6. [Culture](https://github.com/tealpartners/handbook/blob/master/Culture.md)
+7. [FAQ](https://github.com/tealpartners/handbook/blob/master/FAQ.md)
