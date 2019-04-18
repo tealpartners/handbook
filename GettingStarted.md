@@ -49,6 +49,7 @@ Teal Partners is a company with a horizontal hierarchy, which means that you are
 This also means that there is self management and that you must/may decide how you want to work.
 Because there is no boss, your colleagues will be happy to guide you.
 
+One of the first things you probably want to do, is prepare your computer with development software and tools. You find installation instructions that are common for all Teal projects [here](/PrepareYourComputer.md)
 
 ## The Next Few Days And Weeks
 
