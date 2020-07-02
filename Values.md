@@ -33,7 +33,7 @@ When you are not exactly the earliest bird in the forest, nobody will force you 
 
 
 ## Wide roles
-We don't have titels, predefined career paths, you-do-that-part-on-the-project things.
+We don't have titles, predefined career paths, you-do-that-part-on-the-project things. At Teal Partners, we try to maximize our people's energy. A perfect fit between a job that needs to be done and the person. Not only driven by experience and competences, but with an eye on personal development and interest. 
 
 ## Careers
 seperate page?
